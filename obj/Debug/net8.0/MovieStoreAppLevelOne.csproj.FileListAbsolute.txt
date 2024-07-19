@@ -1,0 +1,15 @@
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\bin\Debug\net8.0\MovieStoreAppLevelOne.exe
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\bin\Debug\net8.0\MovieStoreAppLevelOne.deps.json
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\bin\Debug\net8.0\MovieStoreAppLevelOne.runtimeconfig.json
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\bin\Debug\net8.0\MovieStoreAppLevelOne.dll
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\bin\Debug\net8.0\MovieStoreAppLevelOne.pdb
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\obj\Debug\net8.0\MovieStoreAppLevelOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\obj\Debug\net8.0\MovieStoreAppLevelOne.AssemblyInfoInputs.cache
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\obj\Debug\net8.0\MovieStoreAppLevelOne.AssemblyInfo.cs
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\obj\Debug\net8.0\MovieStoreAppLevelOne.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\obj\Debug\net8.0\MovieStoreAppLevelOne.dll
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\obj\Debug\net8.0\refint\MovieStoreAppLevelOne.dll
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\obj\Debug\net8.0\MovieStoreAppLevelOne.pdb
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\obj\Debug\net8.0\MovieStoreAppLevelOne.genruntimeconfig.cache
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\obj\Debug\net8.0\ref\MovieStoreAppLevelOne.dll
+C:\Users\roshani.poojari\Desktop\Mini Project\MovieStoreAppLevelOne\obj\Debug\net8.0\MovieStoreAppLevelOne.sourcelink.json
